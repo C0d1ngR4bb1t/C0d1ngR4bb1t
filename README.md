@@ -1,5 +1,5 @@
 # Hey! 👋
-![ProfilePic](./assets/profilepic.png)
+![ProfilePic](./assets/profilepic.jpg)
 I am **C0d1ngR4bb1t** and I like coding as a hobby.
 
 ### Where my alias comes from
